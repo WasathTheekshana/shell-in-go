@@ -16,3 +16,5 @@ func main() {
 		}
 	}
 }
+
+func execInput(input string) {}
